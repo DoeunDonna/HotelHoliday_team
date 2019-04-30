@@ -9,10 +9,17 @@
 개발환경
 
 OS : Windows 7 Professional K
+
 WAS : Apache Tomcat 8.5
+
 DBMS : Oracle 11g Express Edition
+
 Language : Java Platform 8 , JSP & Servlet
+
 FrameWork : 전자정부 표준 프레임워크(Spring Frame), Mybatis 적용
+
 Web : HTML5, CSS/CSS3, JavaScript
+
 Tool : Spring tool suite 3.9.7, Sqldeveloper, eXERD (E-R Modeling Tool)
+
 Open Source : jQuery - 1.12.4,  jQuery UI v.1.12.1,  jquery.ulslide 1.5.5,  daum map API, ckeditor
