@@ -1,14 +1,16 @@
-º» ÇÁ·ÎÁ§Æ®´Â Holiday(°¡»ó ÇÁ·»Â÷ÀÌÁî È£ÅÚ ¿¹¾à ÆäÀÌÁö) ¼Ò½º °øÀ¯ ÀúÀå °ø°£ÀÔ´Ï´Ù.
+ë³¸ í”„ë¡œì íŠ¸ëŠ” Holiday(ê°€ìƒ í”„ë Œì°¨ì´ì¦ˆ í˜¸í…” ì˜ˆì•½ í˜ì´ì§€) ì†ŒìŠ¤ ê³µìœ  ì €ì¥ ê³µê°„ì…ë‹ˆë‹¤.
 
-ÇÁ·ÎÁ§Æ®¸í	  (Hotel HOLIDAY)
-Âü¿©ÀÎ¿ø		  4¸í
-±â°£		2019.04.08 ~ 2018.04.26 (¾à 3ÁÖ)
+í”„ë¡œì íŠ¸ëª… : (Hotel HOLIDAY)
+ì°¸ì—¬ì¸ì› : 4ëª…
+ê¸°ê°„ : 2019.04.08 ~ 2018.04.26 (ì•½ 3ì£¼)
 
-°³¹ßÈ¯°æ		OS	Windows 7 Professional K
-		WAS	Apache Tomcat 8.5
-		DBMS	Oracle 11g Express Edition
-		Language	Java Platform 8 , JSP & Servlet
-		FrameWork	ÀüÀÚÁ¤ºÎ Ç¥ÁØ ÇÁ·¹ÀÓ¿öÅ©(Spring Frame), Mybatis Àû¿ë
-		Web	HTML5, CSS/CSS3, JavaScript
-		Tool	Spring tool suite 3.9.7, Sqldeveloper, eXERD (E-R Modeling Tool)
-		Open Source	jQuery - 1.12.4,  jQuery UI v.1.12.1,  jquery.ulslide 1.5.5,  daum map API, ckeditor
+ê°œë°œí™˜ê²½
+
+OS : Windows 7 Professional K
+WAS : Apache Tomcat 8.5
+DBMS : Oracle 11g Express Edition
+Language : Java Platform 8 , JSP & Servlet
+FrameWork : ì „ìì •ë¶€ í‘œì¤€ í”„ë ˆì„ì›Œí¬(Spring Frame), Mybatis ì ìš©
+Web : HTML5, CSS/CSS3, JavaScript
+Tool : Spring tool suite 3.9.7, Sqldeveloper, eXERD (E-R Modeling Tool)
+Open Source : jQuery - 1.12.4,  jQuery UI v.1.12.1,  jquery.ulslide 1.5.5,  daum map API, ckeditor
